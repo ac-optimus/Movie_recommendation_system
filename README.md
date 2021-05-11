@@ -28,9 +28,3 @@ In this project, we compare different approaches of the recommendation system. W
 ![mygit init](img/MSE.png)
 ![mygit init](img/Precision_Recall.png)
 ![mygit init](img/MoviePrediction.png)
-
-
-## Usage
-- Direct to the project directory.
-- run ```make```
-- execute ```./shell```
