@@ -1,3 +1,10 @@
+# Movie Recommendation System
+
+
+## Contributors
+- <a href = "https://github.com/ac-optimus">Abhavya Chandra </a>
+- <a href = "https://github.com/sgdesh">Shubham Deshpande </a>
+- <a href = "https://github.com/Kshitij08">Kshitij Gajapure </a>
 ## Overview
 In this project, we compare different approaches of the recommendation system. We have done a comparative study on an ensemble of MovieLens dataset and TMDB dataset. Based on all our observations we conclude that CUR decomposition performs best among other recommendation systems.
 
